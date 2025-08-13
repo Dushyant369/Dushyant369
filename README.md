@@ -20,7 +20,7 @@ A self-motivated and detail-oriented Computer Science undergraduate, eager to co
 <p align="left">
 <a href="https://linkedin.com/in/dushyant-mathur-044957264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushyant-mathur-044957264" height="30" width="40" /></a>
 <a href="https://instagram.com/ig_dushyant_mathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_dushyant_mathur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dushyant05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dushyant05" height="30" width="40" /> /></a>
+<a href="https://www.leetcode.com/dushyant05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dushyant05" height="30" width="40" /></a>
 <a href="mailto:dushyantmathur08@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="dushyantmathur08@gmail.com" height="30" width="40" /></a>
 </p>
 
